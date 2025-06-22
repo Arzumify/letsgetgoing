@@ -1,0 +1,7 @@
+[book]
+authors = ["arzumify"]
+language = "en"
+src = "src"
+title = "Let's get going"
+
+[preprocessor.footnote]
